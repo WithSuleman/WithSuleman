@@ -1,5 +1,6 @@
-![logo](https://github.com/WithSuleman/WithSuleman-/blob/main/ChatGPT%20Image%20Jul%206%2C%202026%2C%2010_18_00%20AM.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WithSuleman/WithSuleman/main/banner.png" alt="Banner" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
