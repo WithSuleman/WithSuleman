@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyEyFoTfqnlo4ul-xkXZG2PScUetdqrTLM1N5xqocNgA&s=10">
+<img align="right" alt="coding" width="400"
+src="https://raw.githubusercontent.com/WithSuleman/WithSuleman/main/coding.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=withsuleman&label=Profile%20views&color=0e75b6&style=flat" alt="withsuleman" /> </p>
 
