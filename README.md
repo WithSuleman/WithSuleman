@@ -27,7 +27,7 @@
 - 🤝 I’m looking for help with **Advanced React, Performance Optimization & Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at:
-  https://portfolio-suleman-two.vercel.app/
+  https://portfolio-suleman-website.vercel.app
 
 - 📝 I regularly write articles on:
   https://linkedin.com/in/suleman-javed-a97943378
