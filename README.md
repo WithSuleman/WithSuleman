@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WithSuleman/WithSuleman/main/ChatGPT%20Image%20Jul%206%2C%202026%2C%2011_13_50%20AM.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/WithSuleman/WithSuleman/main/mern-stack-banner.png" alt="MERN Stack Developer Banner" width="100%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
