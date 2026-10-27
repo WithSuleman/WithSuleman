@@ -3,7 +3,7 @@
 <h3 align="center">MERN Stack Developer | Full Stack Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="./mern-stack-banner.png" alt="MERN Stack Developer Banner" width="100%" />
+  <img src="./mern-stack-banner.png" alt="MERN Stack Developer Banner" width="80%" />
 </p>
 
 <p align="center">
