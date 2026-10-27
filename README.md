@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./mern-stack-banner.png" alt="MERN Stack Developer Banner" width="100%" height="500px" />
+  <img src="./mern-stack-banner.png" alt="MERN Stack Developer Banner" width="100%"  />
 </p>
 
 <p align="center">
