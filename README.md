@@ -1,6 +1,5 @@
- <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
+ <h1 align="center">Hi 👋, I'm Muhammad Suleman MERN Stack Developer</h1>
 
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="./mern-stack-banner.png" alt="MERN Stack Developer Banner" width="100%" height="500px" />
